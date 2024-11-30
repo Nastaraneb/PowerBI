@@ -1,0 +1,2 @@
+# Sales Analysis Dashboard
+The goal is to create a dashboard to analyze basic sales data, including total sales, number of products sold, and sales trends over time with a very small dataset. This is my first project try to discover the world of visualization with interesting tool *Power BI*
