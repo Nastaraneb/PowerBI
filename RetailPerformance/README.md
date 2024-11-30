@@ -1,7 +1,6 @@
-# Project Title
-Retail Sales and Inventory Analysis Project
+# Retail Sales and Inventory Analysis Project
 
-Overview
+## Overview
 This project involves analyzing a retail dataset to extract valuable insights into store performance, inventory management, and product sales trends. By using Power BI as the primary tool for data visualization, we created interactive dashboards to explore relationships among key metrics such as revenue, profit, inventory levels, and units sold.
 
 Dataset
