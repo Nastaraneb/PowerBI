@@ -1,5 +1,8 @@
 # 📊 IBM HR Analytics Attrition Dashboard (Power BI)
 
+<img width="1536" height="864" alt="powerbi" src="https://github.com/user-attachments/assets/6c04aa94-007b-4af7-95d7-902ad3a61dcd" />
+
+
 ## 📌 Overview
 
 This project analyzes the **IBM HR Analytics Employee Attrition** dataset to uncover patterns and drivers behind employee turnover.
